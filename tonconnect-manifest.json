@@ -1,7 +1,5 @@
 {
-  "url": "https://github.com/ton-connect/demo-telegram-bot",
-  "name": "Demo telegram bot dApp",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png",
-  "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
-  "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+    "url": "https://nerklion.github.io/test",
+    "name": "Test",
+    "iconUrl": "https://media.gq.com/photos/63e67750275d2fef78a418d2/master/pass/bathtub.jpg"
 }
